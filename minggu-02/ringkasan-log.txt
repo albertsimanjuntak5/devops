@@ -1,0 +1,8 @@
+=== RINGKASAN LOG SISTEM ===
+Total ERROR : 3
+Total WARN  : 2
+
+--- DETAIL BARIS ERROR ---
+2026-09-24 08:05:00 ERROR [auth] Invalid password for user root
+2026-09-24 08:15:30 ERROR [db] Connection timeout to database
+2026-09-24 08:25:12 ERROR [auth] Invalid password for user root

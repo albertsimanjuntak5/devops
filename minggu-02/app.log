@@ -1,0 +1,7 @@
+2026-09-24 08:00:01 INFO [auth] User albert logged in successfully
+2026-09-24 08:02:15 WARN [db] High latency detected on query
+2026-09-24 08:05:00 ERROR [auth] Invalid password for user root
+2026-09-24 08:10:22 INFO [payment] Transaction 1001 completed
+2026-09-24 08:15:30 ERROR [db] Connection timeout to database
+2026-09-24 08:20:00 WARN [memory] Usage exceeds 80%
+2026-09-24 08:25:12 ERROR [auth] Invalid password for user root
